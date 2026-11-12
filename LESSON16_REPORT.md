@@ -3,8 +3,8 @@
 ## 仓库
 
 - 原仓库：<https://github.com/leiaqi1206/miaojia-archive-lesson15>
-- 本次代码提交：`e7459b4b78043e3b6a6827b2f9222fb1a9ffdcb5`
-- 本次提交链接：<https://github.com/leiaqi1206/miaojia-archive-lesson15/commit/e7459b4b78043e3b6a6827b2f9222fb1a9ffdcb5>（推送成功后可在 GitHub 查看）
+- 本次代码提交：`52a3dde9379ff5bc2714d0318686e81ff9a42e3b`
+- 本次提交链接：<https://github.com/leiaqi1206/miaojia-archive-lesson15/commit/52a3dde9379ff5bc2714d0318686e81ff9a42e3b>
 
 ## 第一部分：自测与检查
 
@@ -57,9 +57,9 @@
 ### 填空答案
 
 - 本次提交包含前后端档案功能、SQLite 持久化、测试和启动说明，涉及 `frontend/`、`backend/` 和 `README.md`；README 的命令改为从项目根目录使用相对路径，更新的文档是 `README.md` 与本作业记录 `LESSON16_REPORT.md`。
-- 我采用的提交说明是 `feat: connect cat archive UI to FastAPI and SQLite`；提交号是 `e7459b4b78043e3b6a6827b2f9222fb1a9ffdcb5`，GitHub 提交链接是 <https://github.com/leiaqi1206/miaojia-archive-lesson15/commit/e7459b4b78043e3b6a6827b2f9222fb1a9ffdcb5>。
-- 本地已核对提交差异和说明。GitHub 页面尚未核对；推送未完成，因为此电脑没有可用的 GitHub 命令行凭据，需先连接 GitHub 后再推送并核对。
+- 我采用的提交说明是 `feat: connect cat archive UI to FastAPI and SQLite`；GitHub 提交号是 `52a3dde9379ff5bc2714d0318686e81ff9a42e3b`，提交链接是 <https://github.com/leiaqi1206/miaojia-archive-lesson15/commit/52a3dde9379ff5bc2714d0318686e81ff9a42e3b>。
+- 我在 GitHub 核对了提交说明、代码文件、作业记录和 ZIP 文件；与本次修改相符，原来上传的 ZIP 也仍在仓库中。未完成事项：本轮没有人工逐项验证编辑、删除和照片上传页面流程。
 
 ## 演示证据
 
-后端测试执行输出显示 7 项测试通过；前端执行 `npm run build` 后显示 `vue-tsc -b` 和 Vite production build 成功。浏览器验证截图显示“Lesson16检查猫”保存后的详情页，重新加载后仍显示该记录。所有测试使用临时数据库；项目数据库中的“小橘”和“奶盖”记录保持不变。GitHub 推送与页面核对尚待完成。
+后端测试执行输出显示 7 项测试通过；前端执行 `npm run build` 后显示 `vue-tsc -b` 和 Vite production build 成功。浏览器验证截图显示“Lesson16检查猫”保存后的详情页，重新加载后仍显示该记录。所有测试使用临时数据库；项目数据库中的“小橘”和“奶盖”记录保持不变。GitHub 提交及页面核对已完成。
